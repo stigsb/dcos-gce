@@ -1,13 +1,13 @@
 ---
-project: trek-trackr
+project: zedge-dev
 
-subnet: default-6f68d4d6fabcb680
+subnet: subnet-euwest1-10-99-0
 
-login_name: ajazam
+login_name: stig
 
-bootstrap_public_ip: 10.132.0.2
+bootstrap_public_ip: 10.99.0.2
 
-zone: europe-west1-d
+zone: europe-west1-c
 
 
 
